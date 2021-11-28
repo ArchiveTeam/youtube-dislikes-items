@@ -6,6 +6,8 @@ Files should be text, one 11 char Youtube Video ID per line, unix end of line,
 be compressed with xz, gzip or zstd and have a unique name (preferably of the form submittername_YYYY_MM_DD.txt.xz)
 Files not fitting the requested format will not be processed.
 
+To submit files, fork this repo, place files in this directory (DEDUP) and make a pull request.
+
 Please only submit valid IDs, garbage will be detected and the perpetrator punished.
 ***DO NOT SUBMIT URLS OR ANY OTHER DATA, ONLY 1 - 11 CHARACTER ID PER LINE***
 
