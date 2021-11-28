@@ -2,11 +2,12 @@ This is the location for submitting lists of YouTube IDs for dedup for the disli
 This directory is intended for smaller files. 
 If you have a file larger than 1GB please send a link in PM to Jopik#4869 on Discord, Jopik on irc hackint network or jopik1 on reddit.
 
-Files should be text, one 11 byte Youtube Video ID per line, unix end of line,
+Files should be text, one 11 char Youtube Video ID per line, unix end of line,
 be compressed with xz, gzip or zstd and have a unique name (preferably of the form submittername_YYYY_MM_DD.txt.xz)
 Files not fitting the requested format will not be processed.
 
 Please only submit valid IDs, garbage will be detected and the perpetrator punished.
+***DO NOT SUBMIT URLS OR ANY OTHER DATA, ONLY 1 - 11 CHARACTER ID PER LINE***
 
 
 Example:
