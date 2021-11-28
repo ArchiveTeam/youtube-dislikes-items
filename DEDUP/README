@@ -1,0 +1,23 @@
+This is a location for submitting lists of YouTube IDs for dedup for the dislike crawl and future metadata crawls.
+Files should be text, one 11 byte Youtube Video ID per line, unix end of line,
+be compressed with xz, gzip or zstd and have a unique name (preferably of the form submittername_YYYY_MM_DD.txt.xz)
+Files not fitting the requested format will not be processed.
+
+Please only submit valid IDs, garbage will be detected and the perpetrator punished.
+
+
+Example:
+
+3bpTaiwUH5E
+705ePsGf6u8
+_HY4cDn_Fmo
+dxrAYPneWZY
+fOHKE3Iyv6M
+EPsXS1v6Y4Y
+-65pnuwx0nk
+vKiR4kPCkzU
+fOHKE3Iyv6M
+GyMJWZjXlGw
+yjMUogzzTAw
+
+
